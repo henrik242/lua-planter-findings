@@ -1,0 +1,13 @@
+{
+  "name": "Lua",
+  "short_name": "Lua",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/icon/icon384.png",
+    "sizes": "384x384",
+    "type": "image/png"
+  }],
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}

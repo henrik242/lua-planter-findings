@@ -1,0 +1,1 @@
+var n;async function a(){var a,e;return a=navigator.language.indexOf("fr")>=0?"fr":"en",n=await(e=a,new Promise((n,a)=>{fetch(`./assets/i18n/${e}.json`).then(e=>{e.ok?n(e.json()):a()},()=>a())}))}window;export{n as a,a as b};
