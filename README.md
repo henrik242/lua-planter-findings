@@ -95,15 +95,6 @@ Some QR codes are generated from the PWA and decoded using the [zxing.org decode
 00 00 00 ec 11 ec
 ```
 
-### 30px 20/80% 60/6k lux 10/27C
-
-![qr code 9](images/qr-code-9.png "qr code 9")
-
-```
-41 15 30 f1 e0 51 e1 93   2c 80 07 01 70 00 00 00
-00 00 00 ec 11 ec 
-```
-
 ### 30px 25/50% 2k/60k lux 5/30C (Sweet Basil)
 
 ![qr code 10](images/qr-code-10.png "qr code 10")
