@@ -3,7 +3,7 @@
 The Lua planter was an [indigogo campaign](https://www.indiegogo.com/projects/lua-the-smart-planter-with-feelings) that delivered some devices
 but failed and was quickly abandoned by the original author.
 
-The device needed the web app at `https://luaplanter.com` for configuration, but that site is down. I still had the PWA locally, so I can still access it.
+The device needed the web app at `https://luaplanter.com` for configuration, but that site is down. By luck I have the PWA cached locally, so I can still access it. But I don't know for how long.
 
 I have managed to extract some of the files from the PWA, which are available in the [source](source) directory.  Notably `sw.js` is missing.
 
